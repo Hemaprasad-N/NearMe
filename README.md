@@ -29,16 +29,16 @@ Execute the programs and publish them.
 <html>
 
     <head>
-    <title>CHENNAI</title>
+      <title>CHENNAI</title>
     </head>
     
     <body>
-    <h1 align="center">
-    <font color="black"><b>CHENNAI</b></font>
-    </h1>
-    <h2 align="center">
-    <font color="black"><b>HEMAPRASAD.N(212222040054)</b></font>
-    </h2>
+      <h1 align="center">
+        <font color="black"><b>CHENNAI</b></font>
+      </h1>
+      <h2 align="center">
+        <font color="black"><b>HEMAPRASAD.N(212222040054)</b></font>
+      </h2>
     
     <center>
         <img src="map.png" usemap="#image-map">
